@@ -24,6 +24,7 @@ export const Home = () => {
           <h1 className=" text-xl text-center mt-4  md:mt-20 mb-2 text-red-800">
             Funny Dog Farm
           </h1>
+          <p className="my-2 text-xl">Saint bernand</p>
           <p className=" md:w-[600px]">
             Kişilik olarak incelendiğinde St. Bernard uysal, nazik, arkadaş
             canlısı, sevgi dolu ve sabırlıdır. Saint Bernard yavaş hareket eden,
@@ -39,6 +40,8 @@ export const Home = () => {
           <h1 className=" text-xl text-center mt-4  md:mt-20 mb-2 text-red-800">
             Funny Dog Farm
           </h1>
+          <p className="my-2 text-xl">Maltipoo</p>
+
           <p className="md:w-[600px]  ">
             Maltipoo, Maltese ve Toy Poodle ırklarının çaprazlanmasıyla ortaya
             çıkan melez bir köpektir. MaltePoo, MultaPoo, MaltiDoodle gibi
@@ -60,6 +63,8 @@ export const Home = () => {
           <h1 className=" text-xl text-center mt-4  md:mt-20 mb-2 text-red-800">
             Funny Dog Farm
           </h1>
+          <p className="my-2 text-xl">Pomeranian spitz</p>
+
           <p className=" md:w-[600px] ">
             * Enerji düzeyleri yüksektir. * Egzersiz ihtiyaçları çok fazla
             yoktur. * Başka köpeklerle pek geçinemezler. * Diğer yavru
@@ -75,6 +80,8 @@ export const Home = () => {
           <h1 className=" text-xl text-center mt-4  md:mt-20 mb-2 text-red-800">
             Funny Dog Farm
           </h1>
+          <p className="my-2 text-xl">Bengal</p>
+
           <p className=" md:w-[600px] ">
             Görünümlerinin vahşi olmasının aksine Bengal kedileri oldukça uysal,
             sevecen ve sakin yapılı bir kedi ırkıdır. Bu kedi ırkı çocuklu
@@ -90,6 +97,8 @@ export const Home = () => {
           <h1 className=" text-xl text-center mt-4  md:mt-20 mb-2 text-red-800">
             Funny Dog Farm
           </h1>
+          <p className="my-2 text-xl">Savannah F4</p>
+
           <p className=" md:w-[600px] ">
             • Hizli bir sekilde ögrenebilmeleri, kisa sürede egitime yatkinlik
             sagliyor. • Kucaga alinmak, öpülmek ve oksanmak onlar için sorun
