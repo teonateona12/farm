@@ -6,9 +6,9 @@ export const Header = () => {
     <div className="flex gap-3 justify-between ">
       <img className=" w-[100px]" src={Logo} />
       <div className=" flex flex-row gap-3 my-auto">
-        <p>Home</p>
-        <p>Contact</p>
-        <p>Dogs</p>
+        <h1 className=" text-3xl text-center font-bold text-red-800">
+          Funny Dog Farm
+        </h1>
       </div>
     </div>
   );
